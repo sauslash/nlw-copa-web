@@ -1,0 +1,14 @@
+Nodejs 17.2.0
+
+--instalar o next - sair da pasta server antes de rodar, responda yes para typescript
+--e eslint
+create-next-app@latest --use-npm
+
+--para estilizar a aplicacao
+npm i tailwindcss postcss autoprefixer -D
+
+--criar arquivo de configuracao tailwindcss
+npx tailwindcss init -p
+
+--instalar a extensao postcss e tailwindcss para conseguir trabalhar com o tailwindcss
+
